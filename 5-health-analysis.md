@@ -15,7 +15,7 @@ The following information is extracted from the most popular route (refer to [De
     - Average age of a living person is 25 – 34 years
     - Less than 63.2% of people are overweight or obese
 
-Feeding this data into an online calorie calculator, it is observed that a person riding the most popular route would burn **32 calories on average**. 
+Feeding this data into an online calorie calculator, it is observed that a person riding the most popular route would **burn 32 calories on average**. 
 
 <p align="center">
 <img src="https://i.imgur.com/VtNmOAF.png" width="500" height="350">
