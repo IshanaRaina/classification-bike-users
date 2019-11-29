@@ -12,7 +12,7 @@ There are a total of 326,478 trips made between September 2014 and August 2015 a
 The **most popular start station** is _San Francisco Caltrain (Townsend at 4th)_ with a total of 25,582 trips originating from that station. Not surprisingly, it is also the **most popular end station** with a total of 34,050 trips ending at that station. And the **most popular route** is from San Francisco Caltrain 2 (330 Townsend) to Townsend at 7th with 3,725 trips. 
 
 <p align="center">
-<img src="https://i.imgur.com/qlo0ieb.png" width="500" height="350">
+<img src="https://i.imgur.com/2vlm9Xv.png" width="500" height="350">
 </p>
 
 ### Days that stand out
