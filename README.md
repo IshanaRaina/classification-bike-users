@@ -21,14 +21,14 @@ Data between September 2014 and August 2015 was analyzed.
 
 Click the links :point_down: to follow along with the various kind of analyses that were performed on the dataset!
 
-### [1. Data Preprocessing](1-data-preprocessing.md)
+### [Data Preprocessing](1-data-preprocessing.md)
 
-### [2. Descriptive Analytics](2-descriptive-analytics.md)
+### [Descriptive Analytics](2-descriptive-analytics.md)
 
-### [3. Customer Segmentation using Classification](3-customer-segmentation-using-classification.md)
+### [Customer Segmentation using Classification](3-customer-segmentation-using-classification.md)
 
-### [4. Station Distribution](4-station-distribution.md)
+### [Station Distribution](4-station-distribution.md)
 
-### [5. Health Analysis](5-health-analysis.md)
+### [Health Analysis](5-health-analysis.md)
 
 ## Conclusion
