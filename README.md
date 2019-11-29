@@ -19,14 +19,14 @@ Data between September 2014 and August 2015 was analyzed.
 
 ## Analysis
 
-### 1. Data Preprocessing
+### [1. Data Preprocessing](1-data-preprocessing.md)
 
-### 2. Descriptive Analytics
+### [2. Descriptive Analytics](2-descriptive-analytics.md)
 
 ### 3. Customer Segmentation using Classification
 
 ### 4. Station Distribution
 
-### 5. Health Analysis
+### [5. Health Analysis](5-health-analysis.md)
 
 ## Conclusion
