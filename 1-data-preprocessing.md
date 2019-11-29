@@ -24,11 +24,15 @@
 
 On plotting `Trip Count` v/s `Avg Duration`, it was observed that even though December has the least number of trip counts, the average duration of rides in December are almost double that of the other months. 
 
-![](https://i.imgur.com/AdFx1Lp.png)
+<p align="left">
+<img src="https://i.imgur.com/AdFx1Lp.png" width="600" height="500">
+</p>
 
 To visualize the data differently, the box-whisker plot is created. December is, in fact, an outlier with the `Avg(Duration)` value much higher than any other month.
 
-![](https://i.imgur.com/ve4mniz.png)
+<p align="left">
+<img src="https://i.imgur.com/ve4mniz.png" width="200" height="550">
+</p>
 
 Digging deeper into the matter, it is observed that there is a ride recorded with a `Duration` of 17,270,400 seconds ~ 200 days which seems unrealistic. Sounds more like 'Around the US in 200 days!' :stuck_out_tongue: 
 
