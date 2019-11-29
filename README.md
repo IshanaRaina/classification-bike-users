@@ -19,6 +19,8 @@ Data between September 2014 and August 2015 was analyzed.
 
 ## Analysis
 
+Click the links :point_down: to follow along with the various kind of analyses that were performed on the dataset!
+
 ### [1. Data Preprocessing](1-data-preprocessing.md)
 
 ### [2. Descriptive Analytics](2-descriptive-analytics.md)
