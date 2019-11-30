@@ -6,6 +6,8 @@ In order to optimize the bikes that are already out there and to add more bikes,
 <img src="https://media.giphy.com/media/hVyocQ9iNltpQmVXtC/giphy.gif" width="1000" height="600">
 </p>
 
+![map gif](.github/gifs/maps.gif)
+
 According to the legend in the gif above:
 - **RED is less**
     - Red areas/patches on the map indicate low population density. Also on drilling into a particular city, red crosses stand for low dock counts in the station.
