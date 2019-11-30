@@ -18,11 +18,11 @@
 
 ![](https://i.imgur.com/fMmCA92.png)
 
-**Solution**: Tableau was able to map the _dd/mm/yyyy_ dates to the correct _mm/dd/yyyy_ format. As for the _yyyy_ dates, those rows were eliminated. 
+**Solution**: Tableau is able to map the _dd/mm/yyyy_ dates to the correct _mm/dd/yyyy_ format. As for the _yyyy_ dates, those rows are eliminated. 
 
 ### Outliers
 
-On plotting `Trip Count` v/s `Avg Duration`, it was observed that even though December has the least number of trip counts, the average duration of rides in December are almost double that of the other months. 
+On plotting `Trip Count` v/s `Avg Duration`, it is observed that even though December has the least number of trip counts, the average duration of rides in December are almost double that of the other months. 
 
 <p align="left">
 <img src="https://i.imgur.com/AdFx1Lp.png" width="600" height="500">
@@ -38,4 +38,4 @@ Digging deeper into the matter, it is observed that there is a ride recorded wit
 
 ![](https://i.imgur.com/0YEm3ga.png)
 
-**Solution** Eliminate the row where the poor rider was apparently riding his bike for 200 days!
+**Solution:** Eliminate the row where the poor rider was apparently riding his bike for 200 days!
