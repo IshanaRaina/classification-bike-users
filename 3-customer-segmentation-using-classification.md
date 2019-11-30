@@ -1,6 +1,6 @@
 ## Customer Segmentation using Classification :family:
 
-In order to increase adoption for this system the number of subscribers need to be increased, that is, people who purchase Bay Area Bike Share's service for a given period of time. The first step towards this :dart: is to understand what features constitute a subscriber. And what better way to deduce the differences between a **Customer** and **Subscriber** than classification! 
+In order to increase adoption for this system the number of subscribers need to be increased, that is, people who purchase Bay Area Bike Share's service for a year. The first step towards this :dart: is to understand what features constitute a subscriber. And what better way to deduce the differences between a **Customer** and **Subscriber** than classification! 
 
 Different techniques are used to classify _Subscriber Type_ and then evaluated on performance. Here's a quick overview:
 
@@ -41,6 +41,6 @@ Performs the best of them all :tada:
 
 ![](https://i.imgur.com/uDtz1CW.png)
 
-The instances have been classified into class label **Customer** or **Subscriber** based on _Duration_ and _Day_ attributes. Here _Duration_ is a continuous variable (represented in minutes) and is split according to the best cut. On the other hand, _Day_ is a categorical variable taking on 2 values - `Weekday` or `Weekend`.
+The instances are classified into class label **Customer** or **Subscriber** based on _Duration_ and _Day_ attributes. Here _Duration_ is a continuous variable (represented in minutes) and is split according to the best cut. On the other hand, _Day_ is a categorical variable taking on 2 values - `Weekday` or `Weekend`.
 
 ![](https://i.imgur.com/cf0Hwep.png)
