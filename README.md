@@ -1,7 +1,5 @@
 # Bay Area Bike Share :bike:
 
-## Introduction
-
 Bay Area Bike Share is a :bike: sharing system located in the Bay Area in California. Bay Area bikes can be rented from and returned to any station in the system, creating a large network of start-end point combinations. With hundreds of :bike: and twice as many docking points, the system is available for use 24 hours a day, 365 days a year. 
 
 ### Objectives
@@ -19,16 +17,12 @@ Data between September 2014 and August 2015 was analyzed.
 
 ## Analysis
 
-Click the links :point_down: to follow along with the various kind of analyses that were performed on the dataset!
+Click the icons below to follow along with the various kind of analyses that were performed on the dataset!
 
-### [Data Preprocessing](1-data-preprocessing.md)
-
-### [Descriptive Analytics](2-descriptive-analytics.md)
-
-### [Customer Segmentation using Classification](3-customer-segmentation-using-classification.md)
-
-### [Station Distribution](4-station-distribution.md)
-
-### [Health Analysis](5-health-analysis.md)
-
-## Conclusion
+Analysis | Link
+:--- | :---:
+Data Preprocessing | [:computer:](1-data-preprocessing.md)
+Descriptive Analytics | [:abcd:](2-descriptive-analytics.md)
+Customer Segmentation using Classification | [:family:](3-customer-segmentation-using-classification.md)
+Station Distribution | [:bike:](4-station-distribution.md)
+Health Analysis | [:heartpulse:](5-health-analysis.md)
