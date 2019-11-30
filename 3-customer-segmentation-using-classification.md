@@ -1,4 +1,4 @@
-## Customer Segmentation using Classification
+## Customer Segmentation using Classification :family:
 
 In order to increase adoption for this system the number of subscribers need to be increased, that is, people who purchase Bay Area Bike Share's service for a given period of time. The first step towards this goal is to understand what features constitute a subscriber. And what better way to deduce the differences between a **Customer** and **Subscriber** than classification! 
 
