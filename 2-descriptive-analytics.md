@@ -22,7 +22,7 @@ The **calmest day**, that is, the day with the least number of bike rides coinci
 The **busiest day** with 1,411 rides is observed to be September 15, 2014. :bike: :bike: :bike: 
 
 <p align="center">
-<img src="https://i.imgur.com/DwUvG2i.png" width="300" height="250">
+<img src="https://i.imgur.com/DwUvG2i.png" width="400" height="250">
 </p>
 
 ### Effect of Precipitation
