@@ -19,10 +19,12 @@ Data between September 2014 and August 2015 was analyzed.
 
 Click the icons below to follow along with the various kind of analyses that were performed on the dataset!
 
-Analysis | Link
-:--- | :---:
-Data Preprocessing | [:computer:](1-data-preprocessing.md)
-Descriptive Analytics | [:abcd:](2-descriptive-analytics.md)
-Customer Segmentation using Classification | [:family:](3-customer-segmentation-using-classification.md)
-Station Distribution | [:bike:](4-station-distribution.md)
-Health Analysis | [:heartpulse:](5-health-analysis.md)
+[Data Preprocessing](1-data-preprocessing.md) :computer:
+
+[Descriptive Analytics](2-descriptive-analytics.md) :abcd:
+
+[Customer Segmentation using Classification](3-customer-segmentation-using-classification.md) :family:
+
+[Station Distribution](4-station-distribution.md) :bike:
+
+[Health Analysis](5-health-analysis.md) :heartpulse:
