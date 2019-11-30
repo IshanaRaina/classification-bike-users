@@ -2,7 +2,7 @@
 
 In order to optimize the bikes that are already out there and to add more bikes, docks and/or stations to the existing network, it is important to first analyze the current usage. Superimposing the dock count numbers over the map of the Bay Area is one of the easiest ways to quickly visualize station density as compared to population density. On drilling down, we can also compare the dock density to the population density per station (each cross is a station.)
 
-![map gif](.github/gifs/maps.gif)
+![map gif](.github/gifs/map.gif)
 
 According to the legend in the gif above:
 - **RED is less**
