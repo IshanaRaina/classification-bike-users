@@ -9,7 +9,7 @@ The following information is extracted from the most popular route (refer to [De
 </p>
 
 - Distance between the 2 stations is 0.5 miles.
-- Average time taken to cover the route is 7 minutes.
+- Average time taken to cover the route is 7 minutes by bike.
 - Using the distance and time metrics, the average speed for a user to cover that route is estimated to be 4.54 miles/hour. 
 - Using the zip code under consideration (94107), we found its demographics to be: 
     - Average age of a living person is 25 – 34 years
