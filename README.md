@@ -15,7 +15,7 @@ Bay Area Bike Share is a :bike: sharing system located in the Bay Area in Califo
 
 Data between September 2014 and August 2015 was analyzed.
 
-## Analysis
+### Analysis
 
 Click the links below to follow along with the various kind of analyses that were performed on the dataset!
 
