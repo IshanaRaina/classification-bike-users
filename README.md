@@ -1,4 +1,6 @@
-# Bay Area Bike Share :bike:
+<p>
+<img src="https://i.imgur.com/qKohgaD.png"
+</p>
 
 Bay Area Bike Share is a :bike: sharing system located in the Bay Area in California. Bay Area bikes can be rented from and returned to any station in the system, creating a large network of start-end point combinations. With hundreds of :bike: and twice as many docking points, the system is available for use 24 hours a day, 365 days a year. 
 
