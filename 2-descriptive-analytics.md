@@ -32,3 +32,6 @@ Weather has quite a big role to play in :bike: rides. As seen in the line charts
 <p align="center">
 <img src="https://i.imgur.com/wMhmhKu.png" width="700" height="650">
 </p>
+
+---
+:point_right: Head over to the next section [here](3-customer-segmentation-using-classification.md).
