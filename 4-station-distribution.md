@@ -15,3 +15,7 @@ According to the legend in the gif above:
 San Francisco accounts for the highest number of stations, constituting 53.8% of the entire Bay Area Bike Share system. On drilling down into its stations, it is observed that there are stations with high dock counts (green crosses) in densely populated areas. However, there are also stations with low dock counts in densely populated areas. These stations can be part of a target list where dock counts need to be increased. 
 
 Further analysis can be done on the number of bike rides in and around the area in order to make more concrete recommendations regarding the increase in bikes and docks.
+
+---
+
+:point_right: Head over to the next section [here](5-health-analysis.md).
