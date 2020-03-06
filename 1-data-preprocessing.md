@@ -39,3 +39,7 @@ Digging deeper into the matter, it is observed that there is a ride recorded wit
 ![](https://i.imgur.com/0YEm3ga.png)
 
 **Solution:** Eliminate the row where the poor rider was apparently riding his bike for 200 days!
+
+---
+
+:point_right: Head over to the next section [here](2-descriptive-analytics.md).
