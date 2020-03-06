@@ -44,3 +44,7 @@ Performs the best of them all :tada:
 The instances are classified into class label **Customer** or **Subscriber** based on _Duration_ and _Day_ attributes. Here _Duration_ is a continuous variable (represented in minutes) and is split according to the best cut. On the other hand, _Day_ is a categorical variable taking on 2 values - `Weekday` or `Weekend`.
 
 ![](https://i.imgur.com/cf0Hwep.png)
+
+---
+
+:point_right: Head over to the next section [here](4-station-distribution.md).
